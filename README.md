@@ -9,7 +9,7 @@ A command to reverse pipeline text.
 ## Usage
 
 ```sh
-echo "1\n2\n3" | reverse_pipe
+$ echo "1\n2\n3" | reverse_pipe
 3
 2
 1
